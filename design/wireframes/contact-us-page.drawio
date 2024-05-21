@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="-hTq8Zy1sub292jusDoc" name="Page-1">
+        <mxGraphModel dx="813" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="760" height="1000" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="60" width="720" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="840" width="720" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="140" width="720" height="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="User can enter Description" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="280" width="720" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="User Email Space" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="280" width="720" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="User Subject" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="360" width="720" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Send" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="700" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;h1&gt;Contact us&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="250" width="160" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
