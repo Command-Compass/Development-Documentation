@@ -1,0 +1,34 @@
+name: Greet Users on Existing Issues
+on:
+  workflow_dispatch: {}
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Greet Users on Existing Issues
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { context, github } = require('@actions/github');
+
+            const { data: issues } = await github.issues.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open'
+            });
+
+            for (const issue of issues) {
+              const issueCreator = issue.user.login;
+              const message = `Hello @${issueCreator}! Thanks for creating this issue. We'll look into it shortly.`;
+              await github.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: message
+              });
+            }
