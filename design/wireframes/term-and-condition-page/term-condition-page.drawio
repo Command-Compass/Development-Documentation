@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="VpaXt1HModUKx0FUNMdG" name="Page-1">
+        <mxGraphModel dx="1167" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;gradientDirection=east;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="770" height="1030" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;h1&gt;Terms and Conditions&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="80" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="120" width="680" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;h1&gt;example&lt;/h1&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;42.1 Discovery and Notification&lt;/b&gt;&lt;br&gt;&lt;br/&gt;In the event that a unicorn is discovered on the premises of either party, the&lt;br/&gt;discovering party agrees to notify the other party immediately within 24 hours.&lt;br/&gt;Notification must include the exact location of the unicorn and any&lt;br/&gt;distinguishing features.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;42.2 Joint Custody and Care&lt;/b&gt;&lt;br&gt;&lt;br/&gt;The parties agree to jointly care for the unicorn and share all&lt;br/&gt;responsibilities associated with its upkeep. Responsibilities include, but are&lt;br/&gt;not limited to:&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top:0cm&quot;&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Feeding:&lt;br/&gt;     Providing a balanced diet consisting of enchanted hay, fresh fruits, and&lt;br/&gt;     magical herbs.&lt;/li&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Grooming:&lt;br/&gt;     Regular grooming to maintain the unicorn’s mane and tail, including&lt;br/&gt;     bi-weekly brushing and monthly bathing with enchanted water.&lt;/li&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Shelter:&lt;br/&gt;     Providing adequate shelter that is both comfortable and secure, with&lt;br/&gt;     access to a mystical meadow for grazing.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;42.3 Magical Properties and Items&lt;/b&gt;&lt;br&gt;&lt;br/&gt;Any magical properties or items produced by the unicorn, including but not&lt;br/&gt;limited to unicorn hair, horn shavings, and tears, shall be equally shared&lt;br/&gt;between the parties. The parties agree to the following distribution method:&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top:0cm&quot;&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Each&lt;br/&gt;     party shall receive 50% of the total yield of magical properties.&lt;/li&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;In&lt;br/&gt;     the event of disagreement over the division, a neutral third-party&lt;br/&gt;     arbiter, proficient in magical artifacts, shall be appointed to ensure&lt;br/&gt;     fair distribution.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;br/&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;42.4 Unicorn Health and Well-being&lt;/b&gt;&lt;br&gt;&lt;br/&gt;Both parties commit to ensuring the health and well-being of the unicorn. This&lt;br/&gt;includes:&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top:0cm&quot;&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Regular&lt;br/&gt;     check-ups with a certified magical veterinarian.&lt;/li&gt;&lt;br/&gt; &lt;li class=&quot;MsoNormal&quot;&gt;Immediate&lt;br/&gt;     attention to any signs of distress, illness, or injury.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="130" width="670" height="740" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="we put it normal because no one was interested to read this" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="870" width="200" height="200" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
